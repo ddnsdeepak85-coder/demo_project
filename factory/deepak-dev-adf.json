@@ -1,0 +1,16 @@
+{
+	"name": "deepak-dev-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "51f0f025-565f-4ba9-b4c9-c6d843d7a8be",
+		"tenantId": "ffecbf05-0a3e-4e0b-a0d9-a6c97285ccc4"
+	}
+}
